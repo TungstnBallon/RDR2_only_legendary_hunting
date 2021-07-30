@@ -1,0 +1,16 @@
+<EasyInstall>
+    <Name>FenceTest</Name>
+    <Author>TungstnBallon</Author>
+    <Version>0.1.0</Version>
+    <Link></Link>
+    <Metadata></Metadata>
+
+    <Resources>
+        <Resource>
+            <FileReplacement>
+                <GamePath>platform:/data/itemdatabase/catalog_sp.ymt</GamePath>
+                <FilePath>catalog_sp.ymt</FilePath>
+            </FileReplacement>
+        </Resource>
+    </Resources>
+</EasyInstall>
